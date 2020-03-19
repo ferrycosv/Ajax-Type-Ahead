@@ -30,7 +30,7 @@ Building this site one step at a time
 - I wrote the code in `listeners/look-ahead.js` & `handlers/look-ahead.js`
 - The handler function matches and filters the `cities` array with the text typed in the input box, after it shows the user a list with suggestions based on the matches found, the handler is connected to the UI with a `change` and `keyup` event.
 
-## 3. User Story: `show list`
+## 4. User Story: `show list`
 
 - A user can see and select from a list with suggestions of cities and state names based on what he is typing in the input text field.
 - I wrote the code in `handlers/look-ahead.js`
